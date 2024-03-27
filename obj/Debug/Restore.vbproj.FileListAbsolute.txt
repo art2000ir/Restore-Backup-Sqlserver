@@ -1,0 +1,12 @@
+c:\users\amir1\documents\visual studio 2012\Projects\Restore\Restore\bin\Debug\Restore.exe.config
+c:\users\amir1\documents\visual studio 2012\Projects\Restore\Restore\bin\Debug\Restore.exe
+c:\users\amir1\documents\visual studio 2012\Projects\Restore\Restore\bin\Debug\Restore.pdb
+c:\users\amir1\documents\visual studio 2012\Projects\Restore\Restore\bin\Debug\Restore.xml
+c:\users\amir1\documents\visual studio 2012\Projects\Restore\Restore\obj\Debug\Restore.Form1.resources
+c:\users\amir1\documents\visual studio 2012\Projects\Restore\Restore\obj\Debug\Restore.Resources.resources
+c:\users\amir1\documents\visual studio 2012\Projects\Restore\Restore\obj\Debug\Restore.vbproj.GenerateResource.Cache
+c:\users\amir1\documents\visual studio 2012\Projects\Restore\Restore\obj\Debug\Restore.exe
+c:\users\amir1\documents\visual studio 2012\Projects\Restore\Restore\obj\Debug\Restore.xml
+c:\users\amir1\documents\visual studio 2012\Projects\Restore\Restore\obj\Debug\Restore.pdb
+C:\Users\amir1\Documents\Visual Studio 2012\Projects\Restore\Restore\obj\Debug\Restore.vbproj.AssemblyReference.cache
+C:\Users\amir1\Documents\Visual Studio 2012\Projects\Restore\Restore\obj\Debug\Restore.vbproj.CoreCompileInputs.cache
